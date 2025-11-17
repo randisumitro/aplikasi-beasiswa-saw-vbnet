@@ -33,31 +33,31 @@ Berikut adalah tampilan antarmuka dari sistem:
 
 ### 1. Login & Coding Environment
 Halaman login untuk administrator dan tampilan *backend code* koneksi database.
-![Login Screen](aset/image_483c02.png)
+![Login Screen](image_483c02.png)
 
 ### 2. Dashboard Utama
 Menu utama yang menampilkan ringkasan jumlah data (Siswa, Kriteria, dan Penilaian).
-![Menu Utama](aset/image_483c3e.png)
+![Menu Utama](image_483c3e.png)
 
 ### 3. Data Siswa
 Form untuk mengelola data biodata siswa yang akan diseleksi.
-![Data Siswa](aset/image_483c61.png)
+![Data Siswa](image_483c61.png)
 
 ### 4. Data Kriteria & Bobot
 Pengaturan kriteria penilaian beserta bobot dan sifatnya (Cost/Benefit).
-![Data Kriteria](aset/image_483f29.png)
+![Data Kriteria](image_483f29.png)
 
 ### 5. Input Penilaian
 Form untuk memasukkan nilai mentah siswa berdasarkan kriteria yang ada.
-![Input Penilaian](aset/image_483f88.png)
+![Input Penilaian](image_483f88.png)
 
 ### 6. Proses Perhitungan SAW
 Tampilan matriks keputusan dan hasil normalisasi sebelum perankingan.
-![Proses Hitung](aset/image_483fc0.png)
+![Proses Hitung](image_483fc0.png)
 
 ### 7. Laporan Hasil Seleksi
 Hasil akhir perankingan yang menentukan status kelolosan siswa.
-![Laporan Akhir](aset/image_483fe5.png)
+![Laporan Akhir](image_483fe5.png)
 
 ## 🚀 Cara Menjalankan Aplikasi
 
