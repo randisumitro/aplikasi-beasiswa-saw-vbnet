@@ -1,0 +1,12 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\bin\Debug\BeasiswaSAW_PureCode.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\bin\Debug\BeasiswaSAW_PureCode.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\bin\Debug\BeasiswaSAW_PureCode.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.exe
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.xml
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.pdb
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.frmDataSiswa_PureCode.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.frmLogin_PureCode.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Debug\BeasiswaSAW_PureCode.frmPenilaian_PureCode.resources

@@ -1,0 +1,4 @@
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Release\BeasiswaSAW_PureCode.Resources.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Release\BeasiswaSAW_PureCode.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Release\BeasiswaSAW_PureCode.frmDataSiswa_PureCode.resources
+C:\Users\LENOVO\OneDrive\Dokumen\Visual Studio 2010\Projects\BeasiswaSAW_PureCode\BeasiswaSAW_PureCode\obj\x86\Release\BeasiswaSAW_PureCode.frmLogin_PureCode.resources
